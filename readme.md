@@ -42,11 +42,9 @@ Here’s a look at the Password Generator:
 Random-Password-Generator/
 │
 ├── index.html          # Main HTML file
-├── style.css           # CSS styling (inline)
-├── script.js           # JavaScript logic (inline)
-└── images/             # Icon assets
-    ├── copy.png
-    └── generate.png
+├── copy.png
+└── generate.png           # Icon assets
+   
 ````
 
 ---
