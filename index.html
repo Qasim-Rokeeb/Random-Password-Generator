@@ -99,7 +99,7 @@
         password += symbols[Math.floor(Math.random() * symbols.length)];
 
 
-        while(length > password.length ){
+        while( password.length < length ){
             password += allChars[Math.floor(Math.random() * allChars.length)];
         }
         passwordBox.value = password;

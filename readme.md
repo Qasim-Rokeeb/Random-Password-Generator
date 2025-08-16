@@ -43,7 +43,10 @@ Random-Password-Generator/
 │
 ├── index.html          # Main HTML file
 ├── copy.png
-└── generate.png           # Icon assets
+├── screenshot.png
+├── readme.md
+└── generate.png   
+        # Icon assets
    
 ````
 
